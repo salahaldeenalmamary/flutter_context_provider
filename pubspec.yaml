@@ -1,6 +1,6 @@
 name: flutter_context_provider
 description: A React-like context provider system for Flutter with hooks support
-version: 1.0.0
+version: 2.0.0
 homepage: https://github.com/salahaldeenalmamary/flutter_context_provider
 
 environment:
